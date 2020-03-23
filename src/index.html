@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pesan Rahasia</title>
+    <link rel="stylesheet" href="app.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="../node_modules/materialize-css/dist/css/materialize.min.css">
+</head>
+
+<body>
+    <div class="row barisform">
+        <div class="col s8 offset-s2">
+
+            <div id="formpesan" class="card-panel">
+                <form class="input-field">
+                    <label for="inputpesan">Masukkan Pesan Rahasia Disini</label>
+                    <input type="text" id="inputpesan">
+                    <button class="waves-effect waves-light btn green">Buat Pesan Rahasia</button>
+                </form>
+            </div>
+
+            <div id="formlinkpesan" class="card-panel hide">
+                <div>
+                    Bagikan link ini ke teman anda.
+                    <input type="text" id="linkinput">
+                    <div class="row">
+                        <div class="col">
+                            <button class="btn green waves-effect waves-light">Salin</button>
+                        </div>
+                        <div class="col">
+                            <button class="btn pink waves-effect waves-light">Kembali</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="../node_modules/materialize-css/dist/js/materialize.min.js"></script>
+<script src="app.js" defer></script>
+
+</html>
