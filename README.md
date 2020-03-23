@@ -1,10 +1,10 @@
-# Labirin Bola
+# Pesan Rahasia
 
-Aplikasi sederhana permainan labirin dengan bola dan menuju garis selesai finish. Dibuat dengan menggunakan Matter JS Library untuk animasi di dalam Canvas API. Klik disini untuk tautan untuk dokumentasi [Matter JS](https://brm.io/matter-js/). Gerakkan bola dengan tombol panah atau tombol WASD di keyboard komputer.
+Aplikasi berkirim pesan secara rahasia dari course Udemy Colt Steele dan Stephen Grider. Url kelasnya [Colt Steele Stephen Grider](https://www.udemy.com/course/javascript-beginners-complete-tutorial/).
 
 ## Demo aplikasi
 
-Tautan untuk melihat demo sederhana dari penggunaan aplikasi web ini yaitu [Demo Labirin Bola](https://html-css-eksperimen.github.io/labirin-bola-demos/).
+Tautan untuk melihat demo sederhana dari penggunaan aplikasi web ini yaitu [Demo Pesan Rahasia](https://html-css-eksperimen.github.io/pesan-rahasia/).
 
 ## Cara Menjalankan Demo
 
